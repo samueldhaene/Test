@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test</string>
+    <string name="Auto">voiture</string>
+    <string name="Scherm2">écran</string>
+    <string name="GoBack">retour</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="title_activity_landingpage" translatable="false">Landingpage</string>
+    <string name="French" translatable="false">FR</string>
+    <string name="Nederlands" translatable="false">NL</string>
+    <string name="Welcome" translatable="false">Welcome to Coolcomponents</string>
+    <string name="Auto">Auto</string>
+    <string name="Scherm2">Scherm2</string>
+    <string name="GoBack">Go Back</string>
+    <string name="title_activity_scherm2" translatable="false">Scherm2</string>
+
+</resources>
